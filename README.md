@@ -1,3 +1,8 @@
+<p align="center"><img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="200"/></p>
+<h3 align="center">Hi there! You can read more about my work experience here ⤵️</h3>  
+<p align="center"><a href="https://www.linkedin.com/in/victoriapanchenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
